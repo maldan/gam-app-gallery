@@ -1,6 +1,6 @@
 {
   "name": "@maldan/gam-app-gallery",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gallery",
   "main": "index.js",
   "scripts": {},
